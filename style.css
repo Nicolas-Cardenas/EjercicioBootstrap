@@ -1,0 +1,41 @@
+#banner
+{
+    background-color: rgb(71, 54, 30);
+    color: white;
+    margin: 0;
+}
+#leftmenu
+{
+    background-color: coral;
+}
+#topMenu
+{
+    background-color: burlywood;
+}
+#maincontent
+{
+    background-color: lightgrey;
+}
+#oddphotos
+{
+    background-color: palevioletred;
+}
+#evenphotos
+{
+    background-color:turquoise;
+}
+body
+{
+    text-align: center;
+}
+#footer
+{
+    background-color:rgb(71, 54, 30);
+    color: white;
+    margin: 0;
+}
+
+#rowwidth
+{
+    width: 10px;
+}
